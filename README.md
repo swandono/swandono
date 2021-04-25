@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swandono
 - 👀 I’m interested in javascript, types, python
-- 🌱 I’m currently learning types, and node
+- 🌱 I’m currently learning types
 - 📫 How to reach me me@swandono.com
 
 <!---
