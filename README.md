@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swandono
-- 👀 I’m interested in javascript, types, python
-- 🌱 I’m currently learning vue and angular
+- 👀 I’m interested in javascript, types
+- 🌱 I’m currently learning docker
 - 📫 How to reach me me@swandono.com
 
 <!---
