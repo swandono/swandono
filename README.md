@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swandono
-- 👀 I’m interested in javascript, types, cloud
+- 👀 I’m interested in vim, types, cloud
 - 🌱 I’m currently learning go
 - 📫 How to reach me me@swandono.com
 
