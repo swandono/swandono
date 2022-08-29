@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swandono
-- 👀 I’m interested in typescript, back-end, and vim
+- 👀 I’m interested in typescript, back-end, vim, and rust
 - 🌱 I’m currently learning go
 - 📫 How to reach me me@swandono.com
 
