@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swandono
-- 👀 I’m interested in go, rust, new technologies, and neovim
+- 👀 I’m interested in go, rust, neovim and new technologies
 - 🌱 I’m currently learning go
 - 📫 How to reach me me@swandono.com
 
