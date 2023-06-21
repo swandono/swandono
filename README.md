@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swandono
-- 👀 I’m interested in typescript, back-end, and vim
-- 🌱 I’m currently learning rust
+- 👀 I’m interested in go, rust, new technologies, and neovim
+- 🌱 I’m currently learning go
 - 📫 How to reach me me@swandono.com
 
 <!---
