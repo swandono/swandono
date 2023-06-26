@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swandono
 - 👀 I’m interested in go, rust, neovim and new technologies
-- 🌱 I’m currently learning go
-- 📫 How to reach me me@swandono.com
+- 🌱 I’m currently typing go, java, and typescript for works
+- 📫 How to reach me: me@swandono.com
 
 <!---
 swandono/swandono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
